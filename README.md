@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingslayer08ayan aka Ayan Maity and I am currently studying for my btech in Information Technology
+- 👋 Hi, I’m Ayan Maity and I am currently studying for my btech in Information Technology
 - 👀 I’m interested in ... app dev using android studio and competitive coding mainly in codechef and codeforces!
 - 🌱 I’m currently learning ... advanced concepts on data structures and graphs ,and exploring the Android Studio 
 - 💞️ I’m looking to collaborate on ... Simple app dev problems and repositories for advancement of existing libraries in C,C++ and Java
